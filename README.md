@@ -1,5 +1,5 @@
 # learngit
 ## git练习
-``javascript
+```javascript
 var x=1;
-``
+```
