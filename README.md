@@ -1,2 +1,5 @@
 # learngit
-git练习
+## git练习
+``javascript
+var x=1;
+``
